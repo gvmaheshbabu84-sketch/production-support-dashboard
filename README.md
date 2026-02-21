@@ -94,5 +94,5 @@ The dashboard supports dynamic filtering by:
 ---
 
 ## 📷 Dashboard Preview
-![Main Dashboard](screenshots/overview.png)
-![Shift Schedule](screenshots/shift.png)
+![Main Dashboard](overview.png)
+![Shift Schedule](shift.png)
